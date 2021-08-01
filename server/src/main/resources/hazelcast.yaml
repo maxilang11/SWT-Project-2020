@@ -1,0 +1,5 @@
+hazelcast:
+  network:
+    join:
+      mulicast:
+        enabled: true

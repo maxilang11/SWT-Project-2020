@@ -1,0 +1,9 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "singleQuote": true,
+  "semi": false,
+  "printWidth": 80,
+  "bracketSpacing": true,
+  "space-before-function-paren": true
+}
